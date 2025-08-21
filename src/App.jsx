@@ -3,6 +3,8 @@ import Navbar from "@/lib/components/Navbar.jsx";
 import Hero from "@/lib/components/Hero.jsx";
 import About from "@/lib/components/About.jsx";
 import Experience from "@/lib/components/Experience.jsx";
+import Projects from "@/lib/components/Projects.jsx";
+import Education from "@/lib/components/Education.jsx";
 
 function App() {
 
@@ -12,6 +14,8 @@ function App() {
         <Hero/>
         <About/>
       <Experience/>
+        <Projects/>
+        <Education/>
     </div>
   )
 }

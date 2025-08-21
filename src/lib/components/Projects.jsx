@@ -1,6 +1,5 @@
 import React from 'react';
 import projekts from './content/projects.json';
-import ExperienceCard from "@/lib/components/utils/ExperienceCard.jsx";
 import ProjectCard from "@/lib/components/utils/ProjectCard.jsx";
 
 const Projects = () => {
