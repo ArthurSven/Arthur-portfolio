@@ -3,7 +3,7 @@ import SocialMedia from "@/lib/components/utils/SocialMedia.jsx";
 
 const Hero = () => {
     return (
-        <section className="bg-gradient-to-r from-gray-950 to-blue-950 min-h-[calc(100vh-4rem)] flex items-center justify-center py-16">
+        <section className="min-h-[calc(50vh-4rem)] flex items-center justify-center py-16">
             <div className="w-full max-w-screen-xl px-4 mx-auto">
                 <div className=" rounded-lg p-8 md:p-12 text-center">
                     <h1 className="text-white text-4xl md:text-4xl font-bold mb-2">Hey! I am <span className="text-blue-600">Arthur Sven Msiska</span>

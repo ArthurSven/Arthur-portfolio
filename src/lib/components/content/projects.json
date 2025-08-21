@@ -1,0 +1,34 @@
+[
+  {
+    "name": "JustSpeak Mobile App",
+    "description": "A language learning app that teaches German and Chichewa. Helped 4 students pass their Goethe A1 exams, 100+ downloads on Play Store.",
+    "image": "/images/justspeak.png",
+    "tech": ["Android", "Kotlin", "Jetpack Compose", "MVVM", "REST API", "OAuth2", "Dagger/Hilt"],
+    "github": "https://github.com/ArthurSven",
+    "demo": "https://play.google.com/store/apps/details?id=com.devapps.justspeak"
+  },
+  {
+    "name": "MyPitch",
+    "description": "An Android app that enables young Malawians to pitch ideas and connect with investors and partners.",
+    "image": "/images/mypitch.png",
+    "tech": ["Android", "Kotlin", "MVVM", "Firebase", "Koin"],
+    "github": "https://github.com/ArthurSven",
+    "demo": "https://play.google.com/store/apps/details?id=com.devapps.mypitch"
+  },
+  {
+    "name": "JustSpeak - landing web app",
+    "description": "A Vue App that displays info about my language learning school JustSpeak, enables students to enroll and make enquiries",
+    "image": "/images/justspeakweb.png",
+    "tech": ["Vue", "Tailwind", "Netlify"],
+    "github": "https://github.com/ArthurSven/justSpeak-online",
+    "demo": "https://justspeak-languages.netlify.app/"
+  },
+  {
+    "name": "Arthur Msiska - Online CV",
+    "description": "My digital CV detailing my work experience and expertise",
+    "image": "/images/justspeakweb.png",
+    "tech": ["React", "Tailwind", "Netlify"],
+    "github": "https://github.com/ArthurSven/justSpeak-online",
+    "demo": "https://justspeak-languages.netlify.app/"
+  }
+]

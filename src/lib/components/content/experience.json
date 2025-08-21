@@ -1,0 +1,41 @@
+[
+  {
+    "role": "Software Developer",
+    "organization": "Old Mutual Malawi",
+    "date": "Sep 2024 – Present",
+    "duties": [
+      "Developed an Android app for financial advisors to onboard customers and submit policy documents virtually, reducing paper-based processes by 30%.",
+      "Implemented offline-first architecture to prevent data loss during collection.",
+      "Configured and supported Oracle Insurance Policy Administration system (OIPA), developing over 15 correspondence attachments sent via SMS, Email, and Postal address.",
+      "Mentored interns on development of Retail Claims Tracker web app using Microservice architecture."
+    ]
+  },
+  {
+    "role": "IT Graduate Trainee (Analyst Programmer)",
+    "organization": "Old Mutual Malawi",
+    "date": "Nov 2022 – Aug 2024",
+    "duties": [
+      "Developed a Risk Compliance tool for the Risk and Legal department to detect high-risk profile customers from Regulator Reports.",
+      "Built dockerised Cron Jobs for Pensions Services Claims Tracker to automate claim processing.",
+      "Provided system configuration and business support for Insurance Policy Administration (OIPA)."
+    ]
+  },
+  {
+    "role": "Android Developer (Intern)",
+    "organization": "Global Health Informatics Institute",
+    "date": "Feb 2022 – May 2022",
+    "duties": [
+      "Developed a TB Awareness Android app for Emory University: Georgia TB Reference Guide, with 100+ downloads on Playstore.",
+      "Contributed to algorithm for calculating healthy food percentages in HerHeart app promoting women's pulmonary health.",
+      "Worked on Android apps for clinical research projects for Emory University (USA)."
+    ]
+  },
+  {
+    "role": "Web Developer (Contractor)",
+    "organization": "MiWallet",
+    "date": "Jul 2021 – Nov 2021",
+    "duties": [
+      "Developed frontend website for MiWallet as a landing and contact platform"
+    ]
+  }
+]
